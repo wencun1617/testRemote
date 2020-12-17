@@ -6,3 +6,4 @@
 再试下协同kaifa
 member再试一试。。。。。
 不登录试一下kkkkk
+ssh免密登录
